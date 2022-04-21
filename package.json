@@ -9,7 +9,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/julianjca/erc721-nft-drop.git"
+        "url": ""
     },
     "devDependencies": {
         "prettier": "^2.3.1",
